@@ -1,1 +1,6 @@
-This is a big test
+AI Usage Journal
+Joseph Glover
+jglover2@terpmail.umd.edu
+Section 0201
+Week 1
+This week I used AI while working on a SQL assignment. I was having trouble getting my query right, and I kept running into errors, especially with things like query syntax and formatting. I used ChatGPT to help me figure out what I was doing wrong it gave me explanations and corrected my mistakes. I also used Claude to double check my query and compare the responses between both models. I didn’t use AI to directly write the whole assignment, but I did use it for debugging, explanations, and learning from the errors I was making. It really helped me understand where I was going wrong and how to fix it.
